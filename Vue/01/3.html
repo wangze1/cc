@@ -11,6 +11,11 @@
     <button type="button" name="button" v-on:click="reverseMeg">反转</button>
   </div>
 
+  <div id="div2">
+    <p>{{message}}</p>
+    <input type="text" v-model="message">
+  </div>
+
   <script type="text/javascript">
   var app=new Vue({
     el:'#div1',
@@ -22,6 +27,13 @@
         // 分割成字母，反转再转成字符串
         this.message=this.message.split('').reverse().join('');
       }
+    }
+  });
+
+  var app2=new Vue({
+    el:'#div2',
+    data:{
+      message:'Hello Vue.js'
     }
   });
   </script>
