@@ -26,6 +26,16 @@
     </ol>
   </div>
 
+  <div id="div4">
+    <!-- ：为v-bind的缩写 -->
+    <my :message='message'></my>
+  </div>
+  <template id="tt1">
+    <div class="">
+      这是一个复杂的模板{{ message }}
+    </div>
+  </template>
+
   <script type="text/javascript">
     <!-- 全局注册 -->
     Vue.component('ll',{
@@ -58,6 +68,19 @@
         'todo-item':{
           props:['tt'],
           template:'<li>{{tt.text}}</li>'
+        }
+      }
+    });
+    <!-- 复杂的组件模板 -->
+    var app4=new Vue({
+      el:'#div4',
+      data:{
+        message:'1111'
+      },
+      components:{
+        'my':{
+          props:['message'],
+          template:'#tt1'
         }
       }
     });
