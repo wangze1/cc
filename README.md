@@ -1,5 +1,5 @@
 # Vue
-![Alt text](/path/img/head.jpg)
+![Alt text](/static/img/head.jpg)
 1、声明式渲染
 2、条件与循环
 3、处理用户输入
