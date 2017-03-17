@@ -4,4 +4,4 @@
 3. 处理用户输入
 4. 组件化应用构建
 
-![Alt text](/static/img/head.jpg)
+<img src="/static/img/head.jpg" style="width:20px;height:20px">
