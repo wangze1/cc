@@ -1,0 +1,9 @@
+E:\zz\github\cc\Test\Test\bin\Debug\Test.exe.config
+E:\zz\github\cc\Test\Test\bin\Debug\Test.exe
+E:\zz\github\cc\Test\Test\bin\Debug\Test.pdb
+E:\zz\github\cc\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\zz\github\cc\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\zz\github\cc\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\zz\github\cc\Test\Test\obj\Debug\Test.exe
+E:\zz\github\cc\Test\Test\obj\Debug\Test.pdb
+E:\zz\github\cc\Test\Test\obj\Debug\Test.ExecuteSql.resources
