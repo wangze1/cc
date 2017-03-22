@@ -71,4 +71,3 @@ E:\zz\github\cc\Mvc\Mvc\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
 E:\zz\github\cc\Mvc\Mvc\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
 E:\zz\github\cc\Mvc\Mvc\obj\Debug\Mvc.dll
 E:\zz\github\cc\Mvc\Mvc\obj\Debug\Mvc.pdb
-E:\zz\github\cc\Mvc\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache

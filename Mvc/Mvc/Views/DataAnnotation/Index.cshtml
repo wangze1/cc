@@ -11,7 +11,12 @@
     <title>Index</title>
 </head>
 <body>
-    <div> 111
-    </div>
+
+    <form action="TestSubmit" method="post">
+
+        <input type="text" name="loginName" />
+        <span>@Html.ValidationMessage("loginName")</span><br />
+        <input type="submit" name="name" value="提 交" />
+    </form>
 </body>
 </html>

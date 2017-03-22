@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Mvc.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -12,6 +13,16 @@ namespace Mvc.Controllers
         public ActionResult Index()
         {
             return View();
+        }
+
+        [HttpPost]
+        public ActionResult TestSubmit(DataAnnotationModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                return View();
+            }
+            return View("index", model);
         }
     }
 }
