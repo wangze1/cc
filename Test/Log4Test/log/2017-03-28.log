@@ -1,0 +1,16 @@
+[Header]
+Log4Test.Program 【INFO 】2017-03-28 11:57:43,052ata       消息
+Log4Test.Program 【WARN 】2017-03-28 11:57:43,063ata       警告
+Log4Test.Program 【ERROR】2017-03-28 11:57:43,063ata       异常
+Log4Test.Program 【ERROR】2017-03-28 11:57:43,063ata       异常Test
+Log4Test.Program 【DEBUG】2017-03-28 11:57:43,065ata       调试
+Log4Test.Program 【FATAL】2017-03-28 11:57:43,065ata       错误
+[Footer]
+[Header]
+Log4Test.Program 【INFO 】2017-03-28 11:58:03,427       消息
+Log4Test.Program 【WARN 】2017-03-28 11:58:03,438       警告
+Log4Test.Program 【ERROR】2017-03-28 11:58:03,439       异常
+Log4Test.Program 【ERROR】2017-03-28 11:58:03,440       异常Test
+Log4Test.Program 【DEBUG】2017-03-28 11:58:03,446       调试
+Log4Test.Program 【FATAL】2017-03-28 11:58:03,446       错误
+[Footer]
